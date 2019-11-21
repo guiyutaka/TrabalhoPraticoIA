@@ -1,0 +1,30 @@
+﻿Build started 05/12/2017 21:25:02.
+     1>Project "C:\Users\Gustavo\Arquivos\UFSCar\6º Semestre\Matérias\Inteligência Artificial\Trabalho\Projeto\Trabalho.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt averageLink.cpp kMedias.cpp singleLink.cpp
+         averageLink.cpp
+     1>averageLink.cpp(62): warning C4018: '<': signed/unsigned mismatch
+         kMedias.cpp
+     1>kMedias.cpp(48): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>kMedias.cpp(62): warning C4018: '<': signed/unsigned mismatch
+         singleLink.cpp
+     1>singleLink.cpp(61): warning C4018: '<': signed/unsigned mismatch
+     1>singleLink.cpp(66): warning C4018: '<': signed/unsigned mismatch
+     1>singleLink.cpp(67): warning C4018: '<': signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Gustavo\Arquivos\UFSCar\6º Semestre\Matérias\Inteligência Artificial\Trabalho\Projeto\Release\Trabalho.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Gustavo\Arquivos\UFSCar\6º Semestre\Matérias\Inteligência Artificial\Trabalho\Projeto\Release\Trabalho.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Gustavo\Arquivos\UFSCar\6º Semestre\Matérias\Inteligência Artificial\Trabalho\Projeto\Release\Trabalho.lib" /MACHINE:X86 /SAFESEH Release\averageLink.obj
+         Release\DisjointSets.obj
+         Release\kMedias.obj
+         Release\main.obj
+         Release\singleLink.obj
+         Generating code
+         2 of 1912 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           1 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         Trabalho.vcxproj -> C:\Users\Gustavo\Arquivos\UFSCar\6º Semestre\Matérias\Inteligência Artificial\Trabalho\Projeto\Release\Trabalho.exe
+     1>Done Building Project "C:\Users\Gustavo\Arquivos\UFSCar\6º Semestre\Matérias\Inteligência Artificial\Trabalho\Projeto\Trabalho.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.69

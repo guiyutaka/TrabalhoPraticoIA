@@ -1,0 +1,13 @@
+﻿  averageLink.cpp
+D:\Desktop\Faculdade\IA\Projeto\averageLink.cpp(62): warning C4018: '<': incompatibilidade de signed/unsigned
+  DisjointSets.cpp
+  kMedias.cpp
+D:\Desktop\Faculdade\IA\Projeto\kMedias.cpp(48): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+D:\Desktop\Faculdade\IA\Projeto\kMedias.cpp(62): warning C4018: '<': incompatibilidade de signed/unsigned
+  main.cpp
+  singleLink.cpp
+D:\Desktop\Faculdade\IA\Projeto\singleLink.cpp(61): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Desktop\Faculdade\IA\Projeto\singleLink.cpp(66): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Desktop\Faculdade\IA\Projeto\singleLink.cpp(67): warning C4018: '<': incompatibilidade de signed/unsigned
+  Gerando Código...
+  Trabalho.vcxproj -> D:\Desktop\Faculdade\IA\Projeto\Debug\Trabalho.exe
